@@ -13,6 +13,6 @@ Pour être prêt à démarrer au matin du hackathon, venez à l'une des journée
 
 Le fichier "description générale" présente les principales informations relatives à l'événement.
 
-Le fichier "exemples" expose des cas d'identification difficile dans SIRENE à partir de données receuillies lors de l'Enquête emploi.
+Le fichier "exemples" expose des cas d'identification difficile dans SIRENE à partir de données recueillies lors de l'Enquête emploi.
 
 Le fichier "journées de préparation" décrit le détail du programme des 27 novembre et 4 décembre 2017.
